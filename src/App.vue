@@ -1,22 +1,4 @@
-<script lang="ts">
-import { stringify } from 'node:querystring'
-import file from 'C:/workspace/Buffer32/wordle-solver/wordlist-german.txt'
-import { RouterView } from 'vue-router'
-// export default {
-//   name: 'App',
-//   setup() {
-//     return {
-//       contents: ''
-//     }
-//   },
-//   mounted() {
-//     let reader = new FileReader()
-//     reader.onload = () => {
-//       this.contents = reader.result
-//     }
-//   }
-// }
-</script>
+<script lang="ts"></script>
 
 <template>
   <h1>Wordle Helper</h1>
